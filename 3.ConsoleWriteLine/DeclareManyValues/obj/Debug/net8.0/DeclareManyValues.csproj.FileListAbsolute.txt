@@ -1,0 +1,14 @@
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\obj\Debug\net8.0\DeclareManyValues.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\obj\Debug\net8.0\DeclareManyValues.AssemblyInfoInputs.cache
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\obj\Debug\net8.0\DeclareManyValues.AssemblyInfo.cs
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\obj\Debug\net8.0\DeclareManyValues.csproj.CoreCompileInputs.cache
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\bin\Debug\net8.0\DeclareManyValues.exe
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\bin\Debug\net8.0\DeclareManyValues.deps.json
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\bin\Debug\net8.0\DeclareManyValues.runtimeconfig.json
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\bin\Debug\net8.0\DeclareManyValues.dll
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\bin\Debug\net8.0\DeclareManyValues.pdb
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\obj\Debug\net8.0\DeclareManyValues.dll
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\obj\Debug\net8.0\refint\DeclareManyValues.dll
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\obj\Debug\net8.0\DeclareManyValues.pdb
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\obj\Debug\net8.0\DeclareManyValues.genruntimeconfig.cache
+X:\C#\W3School\3.ConsoleWriteLine\DeclareManyValues\obj\Debug\net8.0\ref\DeclareManyValues.dll

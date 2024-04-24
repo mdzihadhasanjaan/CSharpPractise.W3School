@@ -1,0 +1,28 @@
+X:\C#\W3School\HelloWorld!\bin\Debug\net8.0\HelloWorld!.exe
+X:\C#\W3School\HelloWorld!\bin\Debug\net8.0\HelloWorld!.deps.json
+X:\C#\W3School\HelloWorld!\bin\Debug\net8.0\HelloWorld!.runtimeconfig.json
+X:\C#\W3School\HelloWorld!\bin\Debug\net8.0\HelloWorld!.dll
+X:\C#\W3School\HelloWorld!\bin\Debug\net8.0\HelloWorld!.pdb
+X:\C#\W3School\HelloWorld!\obj\Debug\net8.0\HelloWorld!.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\HelloWorld!\obj\Debug\net8.0\HelloWorld!.AssemblyInfoInputs.cache
+X:\C#\W3School\HelloWorld!\obj\Debug\net8.0\HelloWorld!.AssemblyInfo.cs
+X:\C#\W3School\HelloWorld!\obj\Debug\net8.0\HelloWorld!.csproj.CoreCompileInputs.cache
+X:\C#\W3School\HelloWorld!\obj\Debug\net8.0\HelloWorld!.dll
+X:\C#\W3School\HelloWorld!\obj\Debug\net8.0\refint\HelloWorld!.dll
+X:\C#\W3School\HelloWorld!\obj\Debug\net8.0\HelloWorld!.pdb
+X:\C#\W3School\HelloWorld!\obj\Debug\net8.0\HelloWorld!.genruntimeconfig.cache
+X:\C#\W3School\HelloWorld!\obj\Debug\net8.0\ref\HelloWorld!.dll
+X:\C#\W3School\1. HelloWorld!\bin\Debug\net8.0\HelloWorld!.exe
+X:\C#\W3School\1. HelloWorld!\bin\Debug\net8.0\HelloWorld!.deps.json
+X:\C#\W3School\1. HelloWorld!\bin\Debug\net8.0\HelloWorld!.runtimeconfig.json
+X:\C#\W3School\1. HelloWorld!\bin\Debug\net8.0\HelloWorld!.dll
+X:\C#\W3School\1. HelloWorld!\bin\Debug\net8.0\HelloWorld!.pdb
+X:\C#\W3School\1. HelloWorld!\obj\Debug\net8.0\HelloWorld!.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\1. HelloWorld!\obj\Debug\net8.0\HelloWorld!.AssemblyInfoInputs.cache
+X:\C#\W3School\1. HelloWorld!\obj\Debug\net8.0\HelloWorld!.AssemblyInfo.cs
+X:\C#\W3School\1. HelloWorld!\obj\Debug\net8.0\HelloWorld!.csproj.CoreCompileInputs.cache
+X:\C#\W3School\1. HelloWorld!\obj\Debug\net8.0\HelloWorld!.dll
+X:\C#\W3School\1. HelloWorld!\obj\Debug\net8.0\refint\HelloWorld!.dll
+X:\C#\W3School\1. HelloWorld!\obj\Debug\net8.0\HelloWorld!.pdb
+X:\C#\W3School\1. HelloWorld!\obj\Debug\net8.0\HelloWorld!.genruntimeconfig.cache
+X:\C#\W3School\1. HelloWorld!\obj\Debug\net8.0\ref\HelloWorld!.dll

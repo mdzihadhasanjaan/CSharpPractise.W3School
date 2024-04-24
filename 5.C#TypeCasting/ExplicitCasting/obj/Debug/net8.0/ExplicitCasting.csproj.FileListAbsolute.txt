@@ -1,0 +1,14 @@
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\bin\Debug\net8.0\ExplicitCasting.exe
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\bin\Debug\net8.0\ExplicitCasting.deps.json
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\bin\Debug\net8.0\ExplicitCasting.runtimeconfig.json
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\bin\Debug\net8.0\ExplicitCasting.dll
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\bin\Debug\net8.0\ExplicitCasting.pdb
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\obj\Debug\net8.0\ExplicitCasting.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\obj\Debug\net8.0\ExplicitCasting.AssemblyInfoInputs.cache
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\obj\Debug\net8.0\ExplicitCasting.AssemblyInfo.cs
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\obj\Debug\net8.0\ExplicitCasting.csproj.CoreCompileInputs.cache
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\obj\Debug\net8.0\ExplicitCasting.dll
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\obj\Debug\net8.0\refint\ExplicitCasting.dll
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\obj\Debug\net8.0\ExplicitCasting.pdb
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\obj\Debug\net8.0\ExplicitCasting.genruntimeconfig.cache
+X:\C#\W3School\5.C#TypeCasting\ExplicitCasting\obj\Debug\net8.0\ref\ExplicitCasting.dll

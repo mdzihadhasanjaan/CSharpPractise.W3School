@@ -1,0 +1,10 @@
+The float and double data types can store fractional numbers. 
+We should end the value with an "F" for floats and "D" for doubles:
+
+Double:
+It can print up to 14 digit.
+Float:
+It can print up to 7 digit correctly.
+
+
+A floating point number can also be a scientific number with an "e" to indicate the power of 10

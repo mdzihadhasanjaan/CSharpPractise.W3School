@@ -1,0 +1,14 @@
+X:\C#\W3School\2. Variable\UseOfConst\bin\Debug\net8.0\UseOfConst.exe
+X:\C#\W3School\2. Variable\UseOfConst\bin\Debug\net8.0\UseOfConst.deps.json
+X:\C#\W3School\2. Variable\UseOfConst\bin\Debug\net8.0\UseOfConst.runtimeconfig.json
+X:\C#\W3School\2. Variable\UseOfConst\bin\Debug\net8.0\UseOfConst.dll
+X:\C#\W3School\2. Variable\UseOfConst\bin\Debug\net8.0\UseOfConst.pdb
+X:\C#\W3School\2. Variable\UseOfConst\obj\Debug\net8.0\UseOfConst.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\2. Variable\UseOfConst\obj\Debug\net8.0\UseOfConst.AssemblyInfoInputs.cache
+X:\C#\W3School\2. Variable\UseOfConst\obj\Debug\net8.0\UseOfConst.AssemblyInfo.cs
+X:\C#\W3School\2. Variable\UseOfConst\obj\Debug\net8.0\UseOfConst.csproj.CoreCompileInputs.cache
+X:\C#\W3School\2. Variable\UseOfConst\obj\Debug\net8.0\UseOfConst.dll
+X:\C#\W3School\2. Variable\UseOfConst\obj\Debug\net8.0\refint\UseOfConst.dll
+X:\C#\W3School\2. Variable\UseOfConst\obj\Debug\net8.0\UseOfConst.pdb
+X:\C#\W3School\2. Variable\UseOfConst\obj\Debug\net8.0\UseOfConst.genruntimeconfig.cache
+X:\C#\W3School\2. Variable\UseOfConst\obj\Debug\net8.0\ref\UseOfConst.dll

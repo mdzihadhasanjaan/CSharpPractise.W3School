@@ -1,0 +1,14 @@
+X:\C#\W3School\2. Variable\Integer\ChangingValue\obj\Debug\net8.0\ChangingValue.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\2. Variable\Integer\ChangingValue\obj\Debug\net8.0\ChangingValue.AssemblyInfoInputs.cache
+X:\C#\W3School\2. Variable\Integer\ChangingValue\obj\Debug\net8.0\ChangingValue.AssemblyInfo.cs
+X:\C#\W3School\2. Variable\Integer\ChangingValue\obj\Debug\net8.0\ChangingValue.csproj.CoreCompileInputs.cache
+X:\C#\W3School\2. Variable\Integer\ChangingValue\bin\Debug\net8.0\ChangingValue.exe
+X:\C#\W3School\2. Variable\Integer\ChangingValue\bin\Debug\net8.0\ChangingValue.deps.json
+X:\C#\W3School\2. Variable\Integer\ChangingValue\bin\Debug\net8.0\ChangingValue.runtimeconfig.json
+X:\C#\W3School\2. Variable\Integer\ChangingValue\bin\Debug\net8.0\ChangingValue.dll
+X:\C#\W3School\2. Variable\Integer\ChangingValue\bin\Debug\net8.0\ChangingValue.pdb
+X:\C#\W3School\2. Variable\Integer\ChangingValue\obj\Debug\net8.0\ChangingValue.dll
+X:\C#\W3School\2. Variable\Integer\ChangingValue\obj\Debug\net8.0\refint\ChangingValue.dll
+X:\C#\W3School\2. Variable\Integer\ChangingValue\obj\Debug\net8.0\ChangingValue.pdb
+X:\C#\W3School\2. Variable\Integer\ChangingValue\obj\Debug\net8.0\ChangingValue.genruntimeconfig.cache
+X:\C#\W3School\2. Variable\Integer\ChangingValue\obj\Debug\net8.0\ref\ChangingValue.dll

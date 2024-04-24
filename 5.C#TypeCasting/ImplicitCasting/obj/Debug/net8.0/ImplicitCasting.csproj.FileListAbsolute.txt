@@ -1,0 +1,14 @@
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\bin\Debug\net8.0\ImplicitCasting.exe
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\bin\Debug\net8.0\ImplicitCasting.deps.json
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\bin\Debug\net8.0\ImplicitCasting.runtimeconfig.json
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\bin\Debug\net8.0\ImplicitCasting.dll
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\bin\Debug\net8.0\ImplicitCasting.pdb
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\obj\Debug\net8.0\ImplicitCasting.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\obj\Debug\net8.0\ImplicitCasting.AssemblyInfoInputs.cache
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\obj\Debug\net8.0\ImplicitCasting.AssemblyInfo.cs
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\obj\Debug\net8.0\ImplicitCasting.csproj.CoreCompileInputs.cache
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\obj\Debug\net8.0\ImplicitCasting.dll
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\obj\Debug\net8.0\refint\ImplicitCasting.dll
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\obj\Debug\net8.0\ImplicitCasting.pdb
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\obj\Debug\net8.0\ImplicitCasting.genruntimeconfig.cache
+X:\C#\W3School\5.C#TypeCasting\ImplicitCasting\obj\Debug\net8.0\ref\ImplicitCasting.dll

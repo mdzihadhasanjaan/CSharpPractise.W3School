@@ -1,0 +1,14 @@
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\bin\Debug\net8.0\float.exe
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\bin\Debug\net8.0\float.deps.json
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\bin\Debug\net8.0\float.runtimeconfig.json
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\bin\Debug\net8.0\float.dll
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\bin\Debug\net8.0\float.pdb
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\obj\Debug\net8.0\float.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\obj\Debug\net8.0\float.AssemblyInfoInputs.cache
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\obj\Debug\net8.0\float.AssemblyInfo.cs
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\obj\Debug\net8.0\float.csproj.CoreCompileInputs.cache
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\obj\Debug\net8.0\float.dll
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\obj\Debug\net8.0\refint\float.dll
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\obj\Debug\net8.0\float.pdb
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\obj\Debug\net8.0\float.genruntimeconfig.cache
+X:\C#\W3School\4.DataTypes\FloatingTypes\float\obj\Debug\net8.0\ref\float.dll

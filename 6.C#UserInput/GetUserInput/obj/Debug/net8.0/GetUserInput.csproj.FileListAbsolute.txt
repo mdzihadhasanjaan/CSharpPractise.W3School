@@ -1,0 +1,14 @@
+X:\C#\W3School\6.C#UserInput\GetUserInput\bin\Debug\net8.0\GetUserInput.exe
+X:\C#\W3School\6.C#UserInput\GetUserInput\bin\Debug\net8.0\GetUserInput.deps.json
+X:\C#\W3School\6.C#UserInput\GetUserInput\bin\Debug\net8.0\GetUserInput.runtimeconfig.json
+X:\C#\W3School\6.C#UserInput\GetUserInput\bin\Debug\net8.0\GetUserInput.dll
+X:\C#\W3School\6.C#UserInput\GetUserInput\bin\Debug\net8.0\GetUserInput.pdb
+X:\C#\W3School\6.C#UserInput\GetUserInput\obj\Debug\net8.0\GetUserInput.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\6.C#UserInput\GetUserInput\obj\Debug\net8.0\GetUserInput.AssemblyInfoInputs.cache
+X:\C#\W3School\6.C#UserInput\GetUserInput\obj\Debug\net8.0\GetUserInput.AssemblyInfo.cs
+X:\C#\W3School\6.C#UserInput\GetUserInput\obj\Debug\net8.0\GetUserInput.csproj.CoreCompileInputs.cache
+X:\C#\W3School\6.C#UserInput\GetUserInput\obj\Debug\net8.0\GetUserInput.dll
+X:\C#\W3School\6.C#UserInput\GetUserInput\obj\Debug\net8.0\refint\GetUserInput.dll
+X:\C#\W3School\6.C#UserInput\GetUserInput\obj\Debug\net8.0\GetUserInput.pdb
+X:\C#\W3School\6.C#UserInput\GetUserInput\obj\Debug\net8.0\GetUserInput.genruntimeconfig.cache
+X:\C#\W3School\6.C#UserInput\GetUserInput\obj\Debug\net8.0\ref\GetUserInput.dll

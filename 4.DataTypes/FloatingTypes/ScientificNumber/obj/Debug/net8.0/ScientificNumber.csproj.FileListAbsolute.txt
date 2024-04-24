@@ -1,0 +1,14 @@
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\bin\Debug\net8.0\ScientificNumber.exe
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\bin\Debug\net8.0\ScientificNumber.deps.json
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\bin\Debug\net8.0\ScientificNumber.runtimeconfig.json
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\bin\Debug\net8.0\ScientificNumber.dll
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\bin\Debug\net8.0\ScientificNumber.pdb
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\obj\Debug\net8.0\ScientificNumber.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\obj\Debug\net8.0\ScientificNumber.AssemblyInfoInputs.cache
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\obj\Debug\net8.0\ScientificNumber.AssemblyInfo.cs
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\obj\Debug\net8.0\ScientificNumber.csproj.CoreCompileInputs.cache
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\obj\Debug\net8.0\ScientificNumber.dll
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\obj\Debug\net8.0\refint\ScientificNumber.dll
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\obj\Debug\net8.0\ScientificNumber.pdb
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\obj\Debug\net8.0\ScientificNumber.genruntimeconfig.cache
+X:\C#\W3School\4.DataTypes\FloatingTypes\ScientificNumber\obj\Debug\net8.0\ref\ScientificNumber.dll

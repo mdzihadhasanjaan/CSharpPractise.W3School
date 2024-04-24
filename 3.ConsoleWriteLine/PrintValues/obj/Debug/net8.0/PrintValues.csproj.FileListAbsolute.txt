@@ -1,0 +1,14 @@
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\bin\Debug\net8.0\PrintValues.exe
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\bin\Debug\net8.0\PrintValues.deps.json
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\bin\Debug\net8.0\PrintValues.runtimeconfig.json
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\bin\Debug\net8.0\PrintValues.dll
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\bin\Debug\net8.0\PrintValues.pdb
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\obj\Debug\net8.0\PrintValues.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\obj\Debug\net8.0\PrintValues.AssemblyInfoInputs.cache
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\obj\Debug\net8.0\PrintValues.AssemblyInfo.cs
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\obj\Debug\net8.0\PrintValues.csproj.CoreCompileInputs.cache
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\obj\Debug\net8.0\PrintValues.dll
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\obj\Debug\net8.0\refint\PrintValues.dll
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\obj\Debug\net8.0\PrintValues.pdb
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\obj\Debug\net8.0\PrintValues.genruntimeconfig.cache
+X:\C#\W3School\3.ConsoleWriteLine\PrintValues\obj\Debug\net8.0\ref\PrintValues.dll

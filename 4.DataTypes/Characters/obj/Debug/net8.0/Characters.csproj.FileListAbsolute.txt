@@ -1,0 +1,14 @@
+X:\C#\W3School\4.DataTypes\Characters\bin\Debug\net8.0\Characters.exe
+X:\C#\W3School\4.DataTypes\Characters\bin\Debug\net8.0\Characters.deps.json
+X:\C#\W3School\4.DataTypes\Characters\bin\Debug\net8.0\Characters.runtimeconfig.json
+X:\C#\W3School\4.DataTypes\Characters\bin\Debug\net8.0\Characters.dll
+X:\C#\W3School\4.DataTypes\Characters\bin\Debug\net8.0\Characters.pdb
+X:\C#\W3School\4.DataTypes\Characters\obj\Debug\net8.0\Characters.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\4.DataTypes\Characters\obj\Debug\net8.0\Characters.AssemblyInfoInputs.cache
+X:\C#\W3School\4.DataTypes\Characters\obj\Debug\net8.0\Characters.AssemblyInfo.cs
+X:\C#\W3School\4.DataTypes\Characters\obj\Debug\net8.0\Characters.csproj.CoreCompileInputs.cache
+X:\C#\W3School\4.DataTypes\Characters\obj\Debug\net8.0\Characters.dll
+X:\C#\W3School\4.DataTypes\Characters\obj\Debug\net8.0\refint\Characters.dll
+X:\C#\W3School\4.DataTypes\Characters\obj\Debug\net8.0\Characters.pdb
+X:\C#\W3School\4.DataTypes\Characters\obj\Debug\net8.0\Characters.genruntimeconfig.cache
+X:\C#\W3School\4.DataTypes\Characters\obj\Debug\net8.0\ref\Characters.dll

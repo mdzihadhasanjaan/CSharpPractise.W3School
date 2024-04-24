@@ -1,0 +1,14 @@
+X:\C#\W3School\4.DataTypes\Booleans\obj\Debug\net8.0\Booleans.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\4.DataTypes\Booleans\obj\Debug\net8.0\Booleans.AssemblyInfoInputs.cache
+X:\C#\W3School\4.DataTypes\Booleans\obj\Debug\net8.0\Booleans.AssemblyInfo.cs
+X:\C#\W3School\4.DataTypes\Booleans\obj\Debug\net8.0\Booleans.csproj.CoreCompileInputs.cache
+X:\C#\W3School\4.DataTypes\Booleans\bin\Debug\net8.0\Booleans.exe
+X:\C#\W3School\4.DataTypes\Booleans\bin\Debug\net8.0\Booleans.deps.json
+X:\C#\W3School\4.DataTypes\Booleans\bin\Debug\net8.0\Booleans.runtimeconfig.json
+X:\C#\W3School\4.DataTypes\Booleans\bin\Debug\net8.0\Booleans.dll
+X:\C#\W3School\4.DataTypes\Booleans\bin\Debug\net8.0\Booleans.pdb
+X:\C#\W3School\4.DataTypes\Booleans\obj\Debug\net8.0\Booleans.dll
+X:\C#\W3School\4.DataTypes\Booleans\obj\Debug\net8.0\refint\Booleans.dll
+X:\C#\W3School\4.DataTypes\Booleans\obj\Debug\net8.0\Booleans.pdb
+X:\C#\W3School\4.DataTypes\Booleans\obj\Debug\net8.0\Booleans.genruntimeconfig.cache
+X:\C#\W3School\4.DataTypes\Booleans\obj\Debug\net8.0\ref\Booleans.dll

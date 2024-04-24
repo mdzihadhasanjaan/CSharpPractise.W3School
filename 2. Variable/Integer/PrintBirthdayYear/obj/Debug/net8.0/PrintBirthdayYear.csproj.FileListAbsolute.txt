@@ -1,0 +1,14 @@
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\bin\Debug\net8.0\PrintBirthdayYear.exe
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\bin\Debug\net8.0\PrintBirthdayYear.deps.json
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\bin\Debug\net8.0\PrintBirthdayYear.runtimeconfig.json
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\bin\Debug\net8.0\PrintBirthdayYear.dll
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\bin\Debug\net8.0\PrintBirthdayYear.pdb
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\obj\Debug\net8.0\PrintBirthdayYear.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\obj\Debug\net8.0\PrintBirthdayYear.AssemblyInfoInputs.cache
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\obj\Debug\net8.0\PrintBirthdayYear.AssemblyInfo.cs
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\obj\Debug\net8.0\PrintBirthdayYear.csproj.CoreCompileInputs.cache
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\obj\Debug\net8.0\PrintBirthdayYear.dll
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\obj\Debug\net8.0\refint\PrintBirthdayYear.dll
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\obj\Debug\net8.0\PrintBirthdayYear.pdb
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\obj\Debug\net8.0\PrintBirthdayYear.genruntimeconfig.cache
+X:\C#\W3School\2. Variable\Integer\PrintBirthdayYear\obj\Debug\net8.0\ref\PrintBirthdayYear.dll

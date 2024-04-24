@@ -1,0 +1,14 @@
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\obj\Debug\net8.0\long.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\obj\Debug\net8.0\long.AssemblyInfoInputs.cache
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\obj\Debug\net8.0\long.AssemblyInfo.cs
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\obj\Debug\net8.0\long.csproj.CoreCompileInputs.cache
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\bin\Debug\net8.0\long.exe
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\bin\Debug\net8.0\long.deps.json
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\bin\Debug\net8.0\long.runtimeconfig.json
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\bin\Debug\net8.0\long.dll
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\bin\Debug\net8.0\long.pdb
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\obj\Debug\net8.0\long.dll
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\obj\Debug\net8.0\refint\long.dll
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\obj\Debug\net8.0\long.pdb
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\obj\Debug\net8.0\long.genruntimeconfig.cache
+X:\C#\W3School\4.DataTypes\IntegerTypes\long\obj\Debug\net8.0\ref\long.dll

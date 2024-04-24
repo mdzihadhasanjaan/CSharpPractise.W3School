@@ -1,0 +1,14 @@
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\bin\Debug\net8.0\TypeConvertationMethod.exe
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\bin\Debug\net8.0\TypeConvertationMethod.deps.json
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\bin\Debug\net8.0\TypeConvertationMethod.runtimeconfig.json
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\bin\Debug\net8.0\TypeConvertationMethod.dll
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\bin\Debug\net8.0\TypeConvertationMethod.pdb
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\obj\Debug\net8.0\TypeConvertationMethod.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\obj\Debug\net8.0\TypeConvertationMethod.AssemblyInfoInputs.cache
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\obj\Debug\net8.0\TypeConvertationMethod.AssemblyInfo.cs
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\obj\Debug\net8.0\TypeConvertationMethod.csproj.CoreCompileInputs.cache
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\obj\Debug\net8.0\TypeConvertationMethod.dll
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\obj\Debug\net8.0\refint\TypeConvertationMethod.dll
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\obj\Debug\net8.0\TypeConvertationMethod.pdb
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\obj\Debug\net8.0\TypeConvertationMethod.genruntimeconfig.cache
+X:\C#\W3School\5.C#TypeCasting\TypeConvertationMethod\obj\Debug\net8.0\ref\TypeConvertationMethod.dll

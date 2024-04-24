@@ -1,0 +1,14 @@
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\bin\Debug\net8.0\double.exe
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\bin\Debug\net8.0\double.deps.json
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\bin\Debug\net8.0\double.runtimeconfig.json
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\bin\Debug\net8.0\double.dll
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\bin\Debug\net8.0\double.pdb
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\obj\Debug\net8.0\double.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\obj\Debug\net8.0\double.AssemblyInfoInputs.cache
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\obj\Debug\net8.0\double.AssemblyInfo.cs
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\obj\Debug\net8.0\double.csproj.CoreCompileInputs.cache
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\obj\Debug\net8.0\double.dll
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\obj\Debug\net8.0\refint\double.dll
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\obj\Debug\net8.0\double.pdb
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\obj\Debug\net8.0\double.genruntimeconfig.cache
+X:\C#\W3School\4.DataTypes\FloatingTypes\double\obj\Debug\net8.0\ref\double.dll

@@ -1,0 +1,14 @@
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\bin\Debug\net8.0\FirstnameLastName.exe
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\bin\Debug\net8.0\FirstnameLastName.deps.json
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\bin\Debug\net8.0\FirstnameLastName.runtimeconfig.json
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\bin\Debug\net8.0\FirstnameLastName.dll
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\bin\Debug\net8.0\FirstnameLastName.pdb
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\obj\Debug\net8.0\FirstnameLastName.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\obj\Debug\net8.0\FirstnameLastName.AssemblyInfoInputs.cache
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\obj\Debug\net8.0\FirstnameLastName.AssemblyInfo.cs
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\obj\Debug\net8.0\FirstnameLastName.csproj.CoreCompileInputs.cache
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\obj\Debug\net8.0\FirstnameLastName.dll
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\obj\Debug\net8.0\refint\FirstnameLastName.dll
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\obj\Debug\net8.0\FirstnameLastName.pdb
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\obj\Debug\net8.0\FirstnameLastName.genruntimeconfig.cache
+X:\C#\W3School\3.ConsoleWriteLine\FirstnameLastName\obj\Debug\net8.0\ref\FirstnameLastName.dll

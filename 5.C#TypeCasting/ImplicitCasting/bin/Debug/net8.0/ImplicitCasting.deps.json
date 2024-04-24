@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ImplicitCasting/1.0.0": {
+        "runtime": {
+          "ImplicitCasting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImplicitCasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
