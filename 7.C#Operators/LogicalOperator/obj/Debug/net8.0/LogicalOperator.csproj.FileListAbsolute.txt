@@ -1,0 +1,15 @@
+X:\C#\W3School\7.C#Operators\LogicalOperator\bin\Debug\net8.0\LogicalOperator.exe
+X:\C#\W3School\7.C#Operators\LogicalOperator\bin\Debug\net8.0\LogicalOperator.deps.json
+X:\C#\W3School\7.C#Operators\LogicalOperator\bin\Debug\net8.0\LogicalOperator.runtimeconfig.json
+X:\C#\W3School\7.C#Operators\LogicalOperator\bin\Debug\net8.0\LogicalOperator.dll
+X:\C#\W3School\7.C#Operators\LogicalOperator\bin\Debug\net8.0\LogicalOperator.pdb
+X:\C#\W3School\7.C#Operators\LogicalOperator\obj\Debug\net8.0\LogicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\7.C#Operators\LogicalOperator\obj\Debug\net8.0\LogicalOperator.AssemblyInfoInputs.cache
+X:\C#\W3School\7.C#Operators\LogicalOperator\obj\Debug\net8.0\LogicalOperator.AssemblyInfo.cs
+X:\C#\W3School\7.C#Operators\LogicalOperator\obj\Debug\net8.0\LogicalOperator.csproj.CoreCompileInputs.cache
+X:\C#\W3School\7.C#Operators\LogicalOperator\obj\Debug\net8.0\LogicalOperator.sourcelink.json
+X:\C#\W3School\7.C#Operators\LogicalOperator\obj\Debug\net8.0\LogicalOperator.dll
+X:\C#\W3School\7.C#Operators\LogicalOperator\obj\Debug\net8.0\refint\LogicalOperator.dll
+X:\C#\W3School\7.C#Operators\LogicalOperator\obj\Debug\net8.0\LogicalOperator.pdb
+X:\C#\W3School\7.C#Operators\LogicalOperator\obj\Debug\net8.0\LogicalOperator.genruntimeconfig.cache
+X:\C#\W3School\7.C#Operators\LogicalOperator\obj\Debug\net8.0\ref\LogicalOperator.dll
