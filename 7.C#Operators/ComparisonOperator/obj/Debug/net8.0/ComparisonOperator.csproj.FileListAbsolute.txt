@@ -1,0 +1,15 @@
+X:\C#\W3School\7.C#Operators\ComparisonOperator\bin\Debug\net8.0\ComparisonOperator.exe
+X:\C#\W3School\7.C#Operators\ComparisonOperator\bin\Debug\net8.0\ComparisonOperator.deps.json
+X:\C#\W3School\7.C#Operators\ComparisonOperator\bin\Debug\net8.0\ComparisonOperator.runtimeconfig.json
+X:\C#\W3School\7.C#Operators\ComparisonOperator\bin\Debug\net8.0\ComparisonOperator.dll
+X:\C#\W3School\7.C#Operators\ComparisonOperator\bin\Debug\net8.0\ComparisonOperator.pdb
+X:\C#\W3School\7.C#Operators\ComparisonOperator\obj\Debug\net8.0\ComparisonOperator.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\7.C#Operators\ComparisonOperator\obj\Debug\net8.0\ComparisonOperator.AssemblyInfoInputs.cache
+X:\C#\W3School\7.C#Operators\ComparisonOperator\obj\Debug\net8.0\ComparisonOperator.AssemblyInfo.cs
+X:\C#\W3School\7.C#Operators\ComparisonOperator\obj\Debug\net8.0\ComparisonOperator.csproj.CoreCompileInputs.cache
+X:\C#\W3School\7.C#Operators\ComparisonOperator\obj\Debug\net8.0\ComparisonOperator.sourcelink.json
+X:\C#\W3School\7.C#Operators\ComparisonOperator\obj\Debug\net8.0\ComparisonOperator.dll
+X:\C#\W3School\7.C#Operators\ComparisonOperator\obj\Debug\net8.0\refint\ComparisonOperator.dll
+X:\C#\W3School\7.C#Operators\ComparisonOperator\obj\Debug\net8.0\ComparisonOperator.pdb
+X:\C#\W3School\7.C#Operators\ComparisonOperator\obj\Debug\net8.0\ComparisonOperator.genruntimeconfig.cache
+X:\C#\W3School\7.C#Operators\ComparisonOperator\obj\Debug\net8.0\ref\ComparisonOperator.dll
