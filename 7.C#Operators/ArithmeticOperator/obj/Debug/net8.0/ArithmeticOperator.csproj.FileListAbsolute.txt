@@ -1,0 +1,15 @@
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\obj\Debug\net8.0\ArithmeticOperator.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\obj\Debug\net8.0\ArithmeticOperator.AssemblyInfoInputs.cache
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\obj\Debug\net8.0\ArithmeticOperator.AssemblyInfo.cs
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\obj\Debug\net8.0\ArithmeticOperator.csproj.CoreCompileInputs.cache
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\obj\Debug\net8.0\ArithmeticOperator.sourcelink.json
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\bin\Debug\net8.0\ArithmeticOperator.exe
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\bin\Debug\net8.0\ArithmeticOperator.deps.json
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\bin\Debug\net8.0\ArithmeticOperator.runtimeconfig.json
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\bin\Debug\net8.0\ArithmeticOperator.dll
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\bin\Debug\net8.0\ArithmeticOperator.pdb
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\obj\Debug\net8.0\ArithmeticOperator.dll
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\obj\Debug\net8.0\refint\ArithmeticOperator.dll
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\obj\Debug\net8.0\ArithmeticOperator.pdb
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\obj\Debug\net8.0\ArithmeticOperator.genruntimeconfig.cache
+X:\C#\W3School\7.C#Operators\ArithmeticOperator\obj\Debug\net8.0\ref\ArithmeticOperator.dll
