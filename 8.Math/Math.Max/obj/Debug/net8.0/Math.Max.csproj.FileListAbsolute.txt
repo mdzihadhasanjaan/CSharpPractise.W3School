@@ -1,0 +1,15 @@
+X:\C#\W3School\8.Math\Math.Max\bin\Debug\net8.0\Math.Max.exe
+X:\C#\W3School\8.Math\Math.Max\bin\Debug\net8.0\Math.Max.deps.json
+X:\C#\W3School\8.Math\Math.Max\bin\Debug\net8.0\Math.Max.runtimeconfig.json
+X:\C#\W3School\8.Math\Math.Max\bin\Debug\net8.0\Math.Max.dll
+X:\C#\W3School\8.Math\Math.Max\bin\Debug\net8.0\Math.Max.pdb
+X:\C#\W3School\8.Math\Math.Max\obj\Debug\net8.0\Math.Max.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\8.Math\Math.Max\obj\Debug\net8.0\Math.Max.AssemblyInfoInputs.cache
+X:\C#\W3School\8.Math\Math.Max\obj\Debug\net8.0\Math.Max.AssemblyInfo.cs
+X:\C#\W3School\8.Math\Math.Max\obj\Debug\net8.0\Math.Max.csproj.CoreCompileInputs.cache
+X:\C#\W3School\8.Math\Math.Max\obj\Debug\net8.0\Math.Max.sourcelink.json
+X:\C#\W3School\8.Math\Math.Max\obj\Debug\net8.0\Math.Max.dll
+X:\C#\W3School\8.Math\Math.Max\obj\Debug\net8.0\refint\Math.Max.dll
+X:\C#\W3School\8.Math\Math.Max\obj\Debug\net8.0\Math.Max.pdb
+X:\C#\W3School\8.Math\Math.Max\obj\Debug\net8.0\Math.Max.genruntimeconfig.cache
+X:\C#\W3School\8.Math\Math.Max\obj\Debug\net8.0\ref\Math.Max.dll
