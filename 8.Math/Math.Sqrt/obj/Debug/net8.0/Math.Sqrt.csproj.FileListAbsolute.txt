@@ -1,0 +1,15 @@
+X:\C#\W3School\8.Math\Math.Sqrt\bin\Debug\net8.0\Math.Sqrt.exe
+X:\C#\W3School\8.Math\Math.Sqrt\bin\Debug\net8.0\Math.Sqrt.deps.json
+X:\C#\W3School\8.Math\Math.Sqrt\bin\Debug\net8.0\Math.Sqrt.runtimeconfig.json
+X:\C#\W3School\8.Math\Math.Sqrt\bin\Debug\net8.0\Math.Sqrt.dll
+X:\C#\W3School\8.Math\Math.Sqrt\bin\Debug\net8.0\Math.Sqrt.pdb
+X:\C#\W3School\8.Math\Math.Sqrt\obj\Debug\net8.0\Math.Sqrt.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\8.Math\Math.Sqrt\obj\Debug\net8.0\Math.Sqrt.AssemblyInfoInputs.cache
+X:\C#\W3School\8.Math\Math.Sqrt\obj\Debug\net8.0\Math.Sqrt.AssemblyInfo.cs
+X:\C#\W3School\8.Math\Math.Sqrt\obj\Debug\net8.0\Math.Sqrt.csproj.CoreCompileInputs.cache
+X:\C#\W3School\8.Math\Math.Sqrt\obj\Debug\net8.0\Math.Sqrt.sourcelink.json
+X:\C#\W3School\8.Math\Math.Sqrt\obj\Debug\net8.0\Math.Sqrt.dll
+X:\C#\W3School\8.Math\Math.Sqrt\obj\Debug\net8.0\refint\Math.Sqrt.dll
+X:\C#\W3School\8.Math\Math.Sqrt\obj\Debug\net8.0\Math.Sqrt.pdb
+X:\C#\W3School\8.Math\Math.Sqrt\obj\Debug\net8.0\Math.Sqrt.genruntimeconfig.cache
+X:\C#\W3School\8.Math\Math.Sqrt\obj\Debug\net8.0\ref\Math.Sqrt.dll
