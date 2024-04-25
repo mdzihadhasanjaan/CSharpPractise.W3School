@@ -1,0 +1,15 @@
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\obj\Debug\net8.0\UserInputAndNumber.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\obj\Debug\net8.0\UserInputAndNumber.AssemblyInfoInputs.cache
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\obj\Debug\net8.0\UserInputAndNumber.AssemblyInfo.cs
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\obj\Debug\net8.0\UserInputAndNumber.csproj.CoreCompileInputs.cache
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\obj\Debug\net8.0\UserInputAndNumber.sourcelink.json
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\bin\Debug\net8.0\UserInputAndNumber.exe
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\bin\Debug\net8.0\UserInputAndNumber.deps.json
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\bin\Debug\net8.0\UserInputAndNumber.runtimeconfig.json
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\bin\Debug\net8.0\UserInputAndNumber.dll
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\bin\Debug\net8.0\UserInputAndNumber.pdb
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\obj\Debug\net8.0\UserInputAndNumber.dll
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\obj\Debug\net8.0\refint\UserInputAndNumber.dll
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\obj\Debug\net8.0\UserInputAndNumber.pdb
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\obj\Debug\net8.0\UserInputAndNumber.genruntimeconfig.cache
+X:\C#\W3School\6.C#UserInput\UserInputAndNumber\obj\Debug\net8.0\ref\UserInputAndNumber.dll
