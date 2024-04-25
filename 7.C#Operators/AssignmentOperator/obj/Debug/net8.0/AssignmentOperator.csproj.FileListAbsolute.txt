@@ -1,0 +1,15 @@
+X:\C#\W3School\7.C#Operators\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.exe
+X:\C#\W3School\7.C#Operators\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.deps.json
+X:\C#\W3School\7.C#Operators\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.runtimeconfig.json
+X:\C#\W3School\7.C#Operators\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.dll
+X:\C#\W3School\7.C#Operators\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.pdb
+X:\C#\W3School\7.C#Operators\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\7.C#Operators\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.AssemblyInfoInputs.cache
+X:\C#\W3School\7.C#Operators\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.AssemblyInfo.cs
+X:\C#\W3School\7.C#Operators\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.csproj.CoreCompileInputs.cache
+X:\C#\W3School\7.C#Operators\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.sourcelink.json
+X:\C#\W3School\7.C#Operators\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.dll
+X:\C#\W3School\7.C#Operators\AssignmentOperator\obj\Debug\net8.0\refint\AssignmentOperator.dll
+X:\C#\W3School\7.C#Operators\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.pdb
+X:\C#\W3School\7.C#Operators\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.genruntimeconfig.cache
+X:\C#\W3School\7.C#Operators\AssignmentOperator\obj\Debug\net8.0\ref\AssignmentOperator.dll
