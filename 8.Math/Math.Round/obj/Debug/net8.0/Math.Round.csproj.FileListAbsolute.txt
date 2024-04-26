@@ -1,0 +1,15 @@
+X:\C#\W3School\8.Math\Math.Round\obj\Debug\net8.0\Math.Round.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\W3School\8.Math\Math.Round\obj\Debug\net8.0\Math.Round.AssemblyInfoInputs.cache
+X:\C#\W3School\8.Math\Math.Round\obj\Debug\net8.0\Math.Round.AssemblyInfo.cs
+X:\C#\W3School\8.Math\Math.Round\obj\Debug\net8.0\Math.Round.csproj.CoreCompileInputs.cache
+X:\C#\W3School\8.Math\Math.Round\obj\Debug\net8.0\Math.Round.sourcelink.json
+X:\C#\W3School\8.Math\Math.Round\bin\Debug\net8.0\Math.Round.exe
+X:\C#\W3School\8.Math\Math.Round\bin\Debug\net8.0\Math.Round.deps.json
+X:\C#\W3School\8.Math\Math.Round\bin\Debug\net8.0\Math.Round.runtimeconfig.json
+X:\C#\W3School\8.Math\Math.Round\bin\Debug\net8.0\Math.Round.dll
+X:\C#\W3School\8.Math\Math.Round\bin\Debug\net8.0\Math.Round.pdb
+X:\C#\W3School\8.Math\Math.Round\obj\Debug\net8.0\Math.Round.dll
+X:\C#\W3School\8.Math\Math.Round\obj\Debug\net8.0\refint\Math.Round.dll
+X:\C#\W3School\8.Math\Math.Round\obj\Debug\net8.0\Math.Round.pdb
+X:\C#\W3School\8.Math\Math.Round\obj\Debug\net8.0\Math.Round.genruntimeconfig.cache
+X:\C#\W3School\8.Math\Math.Round\obj\Debug\net8.0\ref\Math.Round.dll
